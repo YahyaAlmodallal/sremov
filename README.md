@@ -104,6 +104,66 @@
     Results of both search were uploaded to "Rayyan" software where duplicates were removed and selection process based on eligibility criteria was carried on. 9599 duplicates were suggested by Rayyan and these were resolved using the auto-resolver (n=9380, >92% similarity) and then manually (n=219)
       After duplicate removal: n=9768
       Final included articles: n=***
+      
+      
+      
+## variables to be collected:
+    
+    - Study goal:
+
+o Efficacy
+
+o Mechanism of action
+
+o Immune response
+
+- Cancer type
+
+- Virus
+
+o Family
+
+o Type of virus
+
+o Type of engineering
+
+o Safety/Side effects
+
+o Attenuation
+
+o Specificity and selectivity
+
+o Pathogenicity
+
+o Replication efficiency
+
+o Immunogenicity (innate, adaptive against tumor antigens)
+
+o Delivery method (intra-tumor vs systematic)
+
+o Resistance to anti-virus responses by the body or tumor microenvironment
+
+o Clinical stage of trials for each virus
+
+- Combination therapy, what else was used besides the virus?
+
+- Model type:
+
+o Cell culture models (in vitro models)
+
+o Animal models (In vivo models)
+
+§ Murine vs Other
+
+o Genetically engineered models (GEMs)
+
+§ What genetic modifications
+
+o Patient-derived xenografts (PDXs)
+
+o Organoids
+
+o Computer models and bioinformatics (in silico models)
     
 
 ## Funcding sources, sponsors, conflicts of interest: 
