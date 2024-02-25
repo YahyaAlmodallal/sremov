@@ -1,10 +1,12 @@
 # A Scoping Review of Preclinical Models in Oncolytic Virotherapy
   Protocol: rationale, objective, timeline, & search strategy
 
+
 # Investigator: 
   Yahya Almodallal, MBBS
   
   Yahya.Almodallal@hotmail.com
+
 
 ## Rationale: 
    "A woman with mixed-celled leukaemia with greatly enlarged spleen. Two weeks after an attack of what was probably influenza, the leukocytes were found reduced from 367,070 to 7500 ... The spleen was much smaller; the liver became smaller later.[1]" 
@@ -33,7 +35,14 @@
       -	Model specific advantages and limitations noted in the article.
       - Applicability to Specific Cancer Types: Determine the suitability of each model for researching various cancer types, based on origin, growth characteristics, and treatment response profiles.
       
-## Time line:
+      
+# Methods:
+
+## Protocol development & registration:
+   This protocol was developed using the Preferred Reporting Items for Systematic reviews and Meta-Analyses extension for Scoping Reviews (PRISMA-ScR). The protocol was registered prospectively with the Open Science Framework on 2/24/2024 and made publicly available on github on 2/25/2024.
+
+
+## Anticipated timeline:
    Start date: 2/24/2024
    
    Protocol completion: 2/25/2024. Revisions: NA
@@ -49,20 +58,53 @@
    Manuscript writing: 11/1/2024 - 2/1/2025
    
    Anticipated finish date: 2/1/2025
-      
-      
-# Methods:
 
-## Protocol development & registration:
-   This protocol was developed using the Preferred Reporting Items for Systematic reviews and Meta-Analyses extension for Scoping Reviews (PRISMA-ScR). The protocol was made publicly available on github under a BSD 2-Clause License under the name "SRPMOV"
-      
-      
-      
-      
-      
-      
-      
 
+## Eligibility criteria:
+    
+    To be included in this review, papers must have the following applicable:
+    - Date of publication: Published before 1/1/2024
+    - Language of publication: English
+      * Introduction of language bias
+    - Availability of publications: at least a full abstract must be available
+    - Type of publications: Original study article published in a peer-reviewed journal (systematic reviews, conference abstracts, meta-analyses, editorials were excluded)
+    - Quantitative, qualitative and mixed-method studies
+    
+    Papers were excluded if they did not fit into the conceptual framework of the study objective
+    - No pre-clinical model used
+    - No virus used (native or engineered)
+    
+
+## Information sources:
+
+    Embase search conducted on 2/25/2024 (n=7911):
+    Full search: ('virotherapy'/syn OR 'virotherapy'/exp OR 'virotherapy' OR 'virotherapy agent'/syn OR 'virotherapy agent'/exp OR 'virotherapy agent' OR 'oncolytic virus'/syn OR 'oncolytic' OR 'oncolytic virus'/exp OR 'oncolytic virus' OR 'oncolytic virotherapy'/syn OR 'oncolytic virotherapy'/exp OR 'oncolytic virotherapy') AND [<1966-2023]/py AND [english]/lim AND [abstracts]/lim AND ([article]/lim OR [article in press]/lim)
+      o	Broad search: 'virotherapy'/syn OR 'virotherapy'/exp OR 'virotherapy' OR 'virotherapy agent'/syn OR 'virotherapy agent'/exp OR 'virotherapy agent' OR 'oncolytic virus'/syn OR 'oncolytic' OR 'oncolytic virus'/exp OR 'oncolytic virus' OR 'oncolytic virotherapy'/syn OR 'oncolytic virotherapy'/exp OR 'oncolytic virotherapy')
+        	AND
+      o	Language and availability: [abstracts]/lim AND ([article]/lim
+        	AND
+      o	Publication type: ([article]/lim OR [article in press]/lim)
+        	AND
+      o	Time period: [<1966-2023]/py
+
+    Pubmed search conducted on 2/25/2024 (n=6674):
+    Full search: (("oncolytic virotherapy"[All Fields] OR "oncolytic virotherapeutic"[All Fields] OR "oncolytic virotherapies"[All Fields] OR ("oncolytic virus"[All Fields] OR "oncolytic viruses"[All Fields]) OR ("Virus"[All Fields] AND "oncolytic"[All Fields]) OR "virotherapy"[All Fields] OR ("Neoplasm"[Title/Abstract] AND "Virus"[Title/Abstract])) NOT ("review"[Publication Type] OR "systematic review"[Publication Type] OR "meta analysis"[Publication Type] OR "editorial"[Publication Type])) AND ((fha[Filter]) AND (1000/1/1:2023/12/31[pdat]) AND (english[Filter]))
+    o	All fields: "oncolytic virotherapy"[All Fields] OR "oncolytic virotherapeutic"[All Fields] OR "oncolytic virotherapies"[All Fields] OR ("oncolytic virus"[All Fields] OR "oncolytic viruses"[All Fields]) OR ("Virus"[All Fields] AND "oncolytic"[All Fields]) OR "virotherapy"[All Fields]
+        	OR
+      o	Title, abstract: ("Neoplasm"[Title/Abstract] AND "Virus"[Title/Abstract]
+        	AND
+      o	Language and availability: english[Filter] AND (fha[Filter])
+        	AND
+      o	Publication type: NOT ("review"[Publication Type] OR "systematic review"[Publication Type])) NOT "meta analysis"[Publication Type]) NOT "editorial"[Publication Type]) 
+        	AND
+      o	Time period: (1000/1/1:2023/12/31[pdat])
+
+    Results of both search were uploaded to "Rayyan" software where duplicates were removed and selection process based on eligibility criteria was carried on.
+      After duplicate removal: n=***
+      Final included articles: n=***
+
+## Funcding sources, sponsors, conflicts of interest: 
+   None
 
 ## References (Vancouver):
    1. Dock G. The influence of complicating diseases upon leukaemia. The American Journal of the Medical Sciences (1827-1924). 1904 Apr 1;127(4):563.
