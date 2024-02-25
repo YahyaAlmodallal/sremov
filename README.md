@@ -101,8 +101,8 @@
         	AND
       o	Time period: (1000/1/1:2023/12/31[pdat])
 
-    Results of both search were uploaded to "Rayyan" software where duplicates were removed and selection process based on eligibility criteria was carried on. 9599 duplicates were suggested by Rayyan and these were resolved using the auto-resolver (n=8147) and then manually (n=1452)
-      After duplicate removal: n=***
+    Results of both search were uploaded to "Rayyan" software where duplicates were removed and selection process based on eligibility criteria was carried on. 9599 duplicates were suggested by Rayyan and these were resolved using the auto-resolver (n=9380, >92% similarity) and then manually (n=219)
+      After duplicate removal: n=9768
       Final included articles: n=***
     
 
