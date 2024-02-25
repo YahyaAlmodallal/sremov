@@ -75,7 +75,9 @@
     - No virus used (native or engineered)
     
 
-## Information sources:
+## Information sources: 
+
+  This is not an exhaustive review of the literature, which would include reviewing all articles where any virus or virus related word and cancer or cancer related word would be reviewed as well. At the beginning of this project, such a review would be unsuitable for the investigator but this might be reconsidered later. Additionally, a complementary OVID-medline search will be conducted once access is available.
 
     Embase search conducted on 2/25/2024 (n=7911):
     Full search: ('virotherapy'/syn OR 'virotherapy'/exp OR 'virotherapy' OR 'virotherapy agent'/syn OR 'virotherapy agent'/exp OR 'virotherapy agent' OR 'oncolytic virus'/syn OR 'oncolytic' OR 'oncolytic virus'/exp OR 'oncolytic virus' OR 'oncolytic virotherapy'/syn OR 'oncolytic virotherapy'/exp OR 'oncolytic virotherapy') AND [<1966-2023]/py AND [english]/lim AND [abstracts]/lim AND ([article]/lim OR [article in press]/lim)
@@ -99,9 +101,10 @@
         	AND
       o	Time period: (1000/1/1:2023/12/31[pdat])
 
-    Results of both search were uploaded to "Rayyan" software where duplicates were removed and selection process based on eligibility criteria was carried on.
+    Results of both search were uploaded to "Rayyan" software where duplicates were removed and selection process based on eligibility criteria was carried on. 9599 duplicates were suggested by Rayyan and these were resolved using the auto-resolver (n=8147) and then manually (n=1452)
       After duplicate removal: n=***
       Final included articles: n=***
+    
 
 ## Funcding sources, sponsors, conflicts of interest: 
    None
