@@ -1,12 +1,10 @@
-# srpmov
+# A Scoping Review of Preclinical Models in Oncolytic Virotherapy
+  Protocol: rationale, objective, timeline, & search strategy
 
 # Investigator: 
   Yahya Almodallal, MBBS
   
   Yahya.Almodallal@hotmail.com
-
-## Title: 
-   A Scoping Review of Preclinical Models in Oncolytic Virotherapy
 
 ## Rationale: 
    "A woman with mixed-celled leukaemia with greatly enlarged spleen. Two weeks after an attack of what was probably influenza, the leukocytes were found reduced from 367,070 to 7500 ... The spleen was much smaller; the liver became smaller later.[1]" 
@@ -34,6 +32,36 @@
       -	Drug delivery and pharmacokinetics: Effectiveness in simulating human pharmacokinetics and drug delivery routes.
       -	Model specific advantages and limitations noted in the article.
       - Applicability to Specific Cancer Types: Determine the suitability of each model for researching various cancer types, based on origin, growth characteristics, and treatment response profiles.
+      
+## Time line:
+   Start date: 2/24/2024
+   
+   Protocol completion: 2/25/2024. Revisions: NA
+      
+   Literature search dates: 
+   
+   Articles exclusion: 3/1/2024 - 7/1/2024
+   
+   Raw data extraction: 7/1/2024 - 8/4/2024
+   
+   Data analysis and graphing: 8/4/2024 - 11/1/2024
+   
+   Manuscript writing: 11/1/2024 - 2/1/2025
+   
+   Anticipated finish date: 2/1/2025
+      
+      
+# Methods:
+
+## Protocol development & registration:
+   This protocol was developed using the Preferred Reporting Items for Systematic reviews and Meta-Analyses extension for Scoping Reviews (PRISMA-ScR). The protocol was made publicly available on github under a BSD 2-Clause License under the name "SRPMOV"
+      
+      
+      
+      
+      
+      
+      
 
 
 ## References (Vancouver):
