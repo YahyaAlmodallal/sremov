@@ -72,18 +72,18 @@
 ## Information sources: Embase databse  
 
   This is not an exhaustive search of the literature, which could additionally include OVID Medline and grey literature databases, these were omitted due to time constraints.
-  - Date of publication: 2000-2023
-  - Language and availability: English, full abstract
-  - Type of publication: article or article in press
-  - Query #1 simply: 
-    -- Anywhere: virotherapy or oncoloytic
-       -- OR abstract, title, keyword: virus + cancer
-    -- And Any where: lab or model
-  - Query #2 simply:
-    -- Disease type: cancer
-  - Query #3 simply: 
-    -- Non-clinical research
-    
+  
+    Summary:
+    - Date of publication: 2000-2023
+    - Language and availability: English, full abstract
+    - Type of publication: article or article in press
+    - Query #1 simply: 
+      -- Anywhere: virotherapy or oncoloytic
+          -- OR abstract, title, keyword: virus + cancer
+      -- And Any where: lab or model
+    - Query #2 simply: disease type is neoplastic
+    - Query #3 simply: Non-clinical research
+  
 
     Embase
     Session Results
@@ -255,7 +255,7 @@
     - Combination therapy, what else was used besides the virus?
     
 
-## Funcding sources, sponsors, conflicts of interest: 
+## Funding sources, sponsors, conflicts of interest: 
    None
 
 ## References (Vancouver):
