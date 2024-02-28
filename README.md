@@ -238,6 +238,8 @@
 
     Results (n=12,872) were uploaded to "Rayyan" software where duplicates were removed and selection process based on eligibility criteria was carried on. 233 duplicates were suggested by Rayyan and these were resolved using the auto-resolver (n=201, >92% similarity) and then manually (n=32)
       After duplicate removal: n=12,767
+      Notes:
+        -Key words, including "HPV", "papilloma", "HCV", "HBV", "Hepatits", "Hepatocellular", EBV, Ebstein chosen to filter out about 6200 articles that seemed to likely be excludable (referring to viruses causing cancers), these were still reviewed (title and abstract) before exclusion but worth noting since if this were to be repeated, a better search process might have excluded must of these.
       Final included articles: n=***
       
       
